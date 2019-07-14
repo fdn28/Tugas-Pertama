@@ -59,3 +59,5 @@ while(i < oke.length){
     console.log("Ini Urutan Ke = " + no++ +" "+oke[i].nama + " - " + oke[i].age + " - " + oke[i].gender);
     i++;
 };
+
+console.log("DISINI BANG JJJL");
